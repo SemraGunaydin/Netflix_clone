@@ -1,4 +1,4 @@
-Netflix Clone Site Interface 🎬
+#Netflix Clone Site Interface 🎬
 
 * This project includes a clone of the Netflix site interface created using HTML5 and CSS3.
 
@@ -8,7 +8,7 @@ Netflix Clone Site Interface 🎬
 
 * For any questions you may have, you can visit the "Frequently Asked Questions" section.
 
-Technologies Used 🎨
+#Technologies Used 🎨
 
 * HTML5
 * CSS3
