@@ -14,7 +14,7 @@
 * Js
 * Responsive Design
 
-  # Screen Gif
+  # Screen Gif 🎞️🎬
 
   ![Amazon Clone](https://github.com/user-attachments/assets/5d459553-6b5d-46f4-a22a-8dd849e37f6b)
 
