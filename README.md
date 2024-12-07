@@ -9,7 +9,6 @@
 * For any questions you may have, you can visit the "Frequently Asked Questions" section.
 
 # Technologies Used 🎨
-
 * HTML5
 * CSS3
 * Responsive Design
