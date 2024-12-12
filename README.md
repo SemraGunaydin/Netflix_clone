@@ -15,8 +15,9 @@
 * Responsive Design
 
   # 📸 Project Preview
+![Netflix_clone](https://github.com/user-attachments/assets/cf1e4ba5-b450-428f-a4d5-3522f09d8234)
 
-  ![Amazon Clone](https://github.com/user-attachments/assets/5d459553-6b5d-46f4-a22a-8dd849e37f6b)
+  
 
 # 🤝 Contributing
 If you'd like to contribute or improve this project, feel free to open an issue or submit a pull request!
