@@ -1,5 +1,7 @@
-# 🎬🎞️ Netflix Clone  ![NetflixGIF](https://github.com/user-attachments/assets/12f14588-1303-4416-83a6-6027146e56c2)
 
+![NetflixGIF](https://github.com/user-attachments/assets/12f14588-1303-4416-83a6-6027146e56c2)
+
+# 🎬🎞️ Netflix Clone 
 
 * This project includes a clone of the Netflix site interface created using HTML5 and CSS3.
 
