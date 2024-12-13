@@ -1,4 +1,5 @@
-# Netflix Clone Site Interface 🎬
+# 🎬🎞️ Netflix Clone  ![NetflixGIF](https://github.com/user-attachments/assets/12f14588-1303-4416-83a6-6027146e56c2)
+
 
 * This project includes a clone of the Netflix site interface created using HTML5 and CSS3.
 
@@ -23,7 +24,8 @@
 If you'd like to contribute or improve this project, feel free to open an issue or submit a pull request!
 
 # 🌟 Acknowledgments
-This project is for educational purposes only and serves as a beginner-friendly resource to learn front-end development techniques.
+Special thanks to Netflix for providing an inspiring layout to replicate. This project is for educational purposes only and is not affiliated with Netflix.
+
 
 # Contact 📩
 gunaydinsemra34@gmail.com
