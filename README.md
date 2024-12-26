@@ -30,5 +30,5 @@ Special thanks to Netflix for providing an inspiring layout to replicate. This p
 
 
 # Contact 📩
-gunaydinsemra34@gmail.com
+semra.gunaydinwork@outlook.com
 
